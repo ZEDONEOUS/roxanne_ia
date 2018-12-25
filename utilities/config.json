@@ -1,0 +1,42 @@
+{
+    "ADMITED_FILES": [".html", ".HTML", ""],
+    "ADMITED_PROTOCOL": ["http", "https"],
+    "CATEGORIES": [
+        { "riesgo":"3", "texto":"accidente" },
+        { "riesgo":"3", "texto":"explosion" },
+        { "riesgo":"3", "texto":"heridos" },
+        { "riesgo":"3", "texto":"herido" },
+        { "riesgo":"3", "texto":"herida" },
+        { "riesgo":"3", "texto":"muertos" },
+        { "riesgo":"3", "texto":"quemado" },
+        { "riesgo":"3", "texto":"quemada" },
+        { "riesgo":"3", "texto":"calcinado" },
+        { "riesgo":"3", "texto":"calcinada" },
+        { "riesgo":"3", "texto":"tortura" },
+        { "riesgo":"3", "texto":"incinerado" },
+        { "riesgo":"3", "texto":"incinerada" },
+        { "riesgo":"3", "texto":"incendio" },
+        { "riesgo":"3", "texto":"incendiar" },
+        { "riesgo":"3", "texto":"electrocutado" },
+        { "riesgo":"3", "texto":"muertas" },
+        { "riesgo":"3", "texto":"muertes" },
+        { "riesgo":"3", "texto":"conflicto armado" },
+        { "riesgo":"2", "texto":"derrame" },
+        { "riesgo":"2", "texto":"protestas" },
+        { "riesgo":"1", "texto":"agua" },
+        { "riesgo":"3", "texto":"ahogado" },
+        { "riesgo":"1", "texto":"luz" },
+        { "riesgo":"1", "texto":"electricidad" },
+        { "riesgo":"1", "texto":"gas" }
+    ],
+    "ORGANIZATIONS": [
+        "superservicios",
+        "superintendencia de servicios publicos domiciliarios",
+        "electricaribe",
+        "codensa"
+    ],
+    "EMAIL": "",
+    "PASS": "",
+    "SMTP_SERVER" : "imap.gmail.com",
+    "SMTP_PORT" : 993
+}
